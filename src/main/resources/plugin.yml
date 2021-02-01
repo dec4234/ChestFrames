@@ -1,0 +1,4 @@
+name: ChestFrames
+version: ${project.version}
+main: net.dec4234.chestframes.ChestFramesMain
+description: ${project.description}
